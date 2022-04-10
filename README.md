@@ -8,7 +8,7 @@
   ## Project operation
 
   Explanation of how the project works in video:
-  https://youtu.be/ZcExPHohb9M
+  https://youtu.be/yM1s-OEy4ec
 
   ## General Info
  
@@ -20,7 +20,7 @@
 
   - `src`: the folder to keep the fonts.
   - `build`: the folder to hold the dependencies.
-  -
+  
   ## Technologies
   ***
   A list of technologies used within the project:
